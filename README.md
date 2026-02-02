@@ -1,33 +1,72 @@
 # Proverbs Path
 
-**Proverbs Path** is an educational and reflective application designed to help people engage with scripture through intentional reading, journaling, and guided reflection.
+**Proverbs Path** is an educational and reflective app designed to help people engage with scripture through reading, journaling, and guided prompts — building consistency, clarity, and spiritual growth over time.
 
-Rather than overwhelming users with features, Proverbs Path focuses on clarity, consistency, and growth — building a daily rhythm that is sustainable over time.
-
-> ⚠️ **Note:**  
-> The production codebase is currently private while Proverbs Path is in active development.  
-> This repository serves as a public project overview and product spotlight.
+> **Note:** The production codebase is currently private while Proverbs Path is in active development.  
+> This repository is a public spotlight with product direction, feature overview, and progress updates.
 
 ---
 
-## Purpose
+## Why it exists
 
-Many people don’t struggle with faith — they struggle with **structure**.
+Most people don’t struggle with *belief* — they struggle with **consistency**.
 
-Proverbs Path exists to:
-- make scripture engagement approachable
-- encourage consistency over intensity
-- help users reflect, not just read
-- support long-term spiritual growth through simple daily practices
-
-The goal is not speed or volume, but **depth and direction**.
+Proverbs Path is built to make scripture engagement practical:
+- easier to start
+- easier to return to
+- easier to reflect and grow
 
 ---
 
-## Core Experience
+## Core experience
 
-At its heart, Proverbs Path is built around a simple loop:
+- **Scripture reading flow** designed for focus and momentum  
+- **Journaling tools** for reflection and personal notes  
+- **Guided prompts** to help users move from reading → understanding → application  
+- **Progress + habit-building** patterns (lightweight, not overwhelming)
 
-1. **Read** — focused scripture sessions  
-2. **Reflect** — guided prompts that encourage understanding  
-3. **Journal** — personal notes tied directly to the re
+---
+
+## MVP scope
+
+The MVP is focused on one thing: **a daily path people can actually follow**.
+
+Planned MVP components:
+- Reading sessions
+- Journal entries tied to sessions
+- Prompted reflection
+- User accounts + saved progress
+
+---
+
+## Tech direction (high level)
+
+- Frontend: **Next.js + React**
+- Backend/Auth/DB: **Supabase**
+- Content + tooling designed for scalability (future lessons, features, and growth)
+
+---
+
+## Status
+
+**In active development.**  
+This page will evolve as the app moves toward release.
+
+---
+
+## Roadmap (high level)
+
+- [ ] Solidify core reading + journaling loop  
+- [ ] Polish UI/UX flows and accessibility  
+- [ ] Add guided prompt packs (themes)  
+- [ ] Beta release + feedback cycle  
+- [ ] Launch
+
+---
+
+## Contact
+
+If you're interested in the project, collaboration, or the direction behind it:
+
+- GitHub: @emoye7246
+- (Add your email or LinkedIn if you want)
